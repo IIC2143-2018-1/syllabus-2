@@ -32,9 +32,9 @@ Nombre              | GitHub           | Email
 ------------------- | ---------------- | ----------------
 Juan Castro         | [@jecastro2]     | [jecastro2@uc.cl]
 Felipe De la Fuente | [@fadelafuente1] | [fadelafuente@uc.cl]
-Felipe Garrido      | [@figarrido]     | [figarrido@uc.cl@uc.cl]
+Felipe Garrido      | [@figarrido]     | [figarrido@uc.cl]
 Harold Müller       | [@haroldmuller]  | [hlmuller@uc.cl]
-Jaime Yañez         | [@JaimePata]     | [jsyanez@uc.cl@uc.cl]
+Jaime Yañez         | [@JaimePata]     | [jsyanez@uc.cl]
 
 [@jnavon]: https://github.com/jnavon
 [@jecastro2]: https://github.com/jecastro2
@@ -46,9 +46,9 @@ Jaime Yañez         | [@JaimePata]     | [jsyanez@uc.cl@uc.cl]
 [jnavon@uc.cl]: mailto:jnavon@uc.cl
 [jecastro2@uc.cl]: mailto:jecastro2@uc.cl
 [fadelafuente@uc.cl]: mailto:fadelafuente@uc.cl
-[figarrido@uc.cl@uc.cl]: mailto:figarrido@uc.cl@uc.cl
+[figarrido@uc.cl]: mailto:figarrido@uc.cl
 [hlmuller@uc.cl]: mailto:hlmuller@uc.cl
-[jsyanez@uc.cl@uc.cl]: mailto:jsyanez@uc.cl@uc.cl
+[jsyanez@uc.cl]: mailto:jsyanez@uc.cl
 
 ## Objetivos
 Al finalizar el curso, el estudiante estará capacitado para:
