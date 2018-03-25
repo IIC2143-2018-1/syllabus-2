@@ -32,9 +32,9 @@ Nombre              | GitHub           | Email
 ------------------- | ---------------- | ----------------
 Juan Castro         | [@jecastro2]     | [jecastro2@uc.cl]
 Felipe De la Fuente | [@fadelafuente1] | [fadelafuente@uc.cl]
-Felipe Garrido      | [@figarrido]     | [figarrido@uc.cl@uc.cl]
+Felipe Garrido      | [@figarrido]     | [figarrido@uc.cl]
 Harold Müller       | [@haroldmuller]  | [hlmuller@uc.cl]
-Jaime Yañez         | [@JaimePata]     | [jsyanez@uc.cl@uc.cl]
+Jaime Yañez         | [@JaimePata]     | [jsyanez@uc.cl]
 
 [@jnavon]: https://github.com/jnavon
 [@jecastro2]: https://github.com/jecastro2
@@ -46,9 +46,9 @@ Jaime Yañez         | [@JaimePata]     | [jsyanez@uc.cl@uc.cl]
 [jnavon@uc.cl]: mailto:jnavon@uc.cl
 [jecastro2@uc.cl]: mailto:jecastro2@uc.cl
 [fadelafuente@uc.cl]: mailto:fadelafuente@uc.cl
-[figarrido@uc.cl@uc.cl]: mailto:figarrido@uc.cl@uc.cl
+[figarrido@uc.cl]: mailto:figarrido@uc.cl
 [hlmuller@uc.cl]: mailto:hlmuller@uc.cl
-[jsyanez@uc.cl@uc.cl]: mailto:jsyanez@uc.cl@uc.cl
+[jsyanez@uc.cl]: mailto:jsyanez@uc.cl
 
 ## Objetivos
 Al finalizar el curso, el estudiante estará capacitado para:
@@ -79,7 +79,21 @@ tienen como objetivo complementar la clase con aspectos prácticos de la platafo
 
 ## Evaluación
 
-Ver [programa](https://github.com/IIC2143-2018-1/syllabus-2/blob/master/programa.pdf) del curso.
+> Ver [programa](https://github.com/IIC2143-2018-1/syllabus-2/blob/master/programa.pdf) del curso para más detalles.
+
+### Interrogaciones
+
+El curso contará con 3 interrogaciones a lo largo del semestre. Su hora de inicio será las 18:30, en las siguientes fechas:
+
+Interrogación     | ¿Cuándo?
+----------------- | -----------------------
+Interrogación \#1 | martes 10 de abril
+Interrogación \#2 | jueves 10 de mayo
+Interrogación \#3 | jueves 7 de junio
+
+### Examen
+
+El curso contará con un examen obligatorio el día jueves 5 de julio.
 
 ## Bibliografía
 - D. Bell, Software Engineering for Students, 4th Ed, Addison-Wesley 2005
